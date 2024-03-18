@@ -1,0 +1,116 @@
+\documentclass[11pt]{article}
+\usepackage{graphicx} % Required for inserting images
+\setlength{\parindent}{0pt}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage[utf8]{inputenc} 
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+\usepackage{lipsum}
+\usepackage[left=1.06cm,top=1.7cm,right=1.06cm,bottom=0.49cm]{geometry}
+
+%by: Jay Im
+
+\begin{document}
+\begin{center}
+    \textbf{Jeonghun (Jay) Im}\\ 
+    \hrulefill
+\end{center}
+
+\begin{center}
+    111 Lena Way, Mountain View, 94040 | j9yim@outlook.com | 678-675-2287
+        
+    LinkedIn: \url{https://www.linkedin.com/in/j9yim/} |  GitHub: \url{https://github.com/ImJ9y}
+\end{center}
+
+\begin{center}
+\textbf{PROJECTS}
+\end{center}
+
+\textbf{Itineris North America Market Internal Project (NAM - Fast-Forward)} | Remote
+
+\textbf{Software Analyst} | April 2023 – Present
+\begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt]
+\item JavaScript development for innovative translators, enhancing data processing efficiency.
+\item Azure DevOps implementation for automated pipeline deployment, integrating multiple languages.
+\item Power Automate workflows for streamlined access provisioning, increasing efficiency by 40\%.
+\end{itemize}
+
+\vspace{5pt}
+
+\textbf{Lansing Board of Water \& Light (LBWL)} | Remote
+
+\textbf{Software Analyst} | April 2023 – Feb 2024
+\begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt]
+\item Enhanced system interoperability by 20\% and optimized data processing by 30\%.
+\item Designed new fields, speeding up processing by 40\%.
+\item Streamlined data processing, increasing operational efficiency by 25\%.
+\end{itemize}
+
+\vspace{5pt}
+
+\textbf{UnderArmour Global Order Management Systems (Manhattan Active OMNI)} | Atlanta, GA
+
+\textbf{Lead Software Consultant} | Sept 2021 – April 2023
+\begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt]
+\item Collaborated with SAP team, achieving 30\% faster issue resolution.
+\item Developed and deployed apps for 200+ store teams, increasing productivity by 20\%.
+\item Successfully addressed 500+ infrastructure issues, ensuring system stability.
+\end{itemize}
+
+\vspace{5pt}
+
+\textbf{New York City Department of Environmental Protection (DEP)} | Atlanta, GA
+
+\textbf{Functional Analyst} | Oct 2020 – June 2021
+\begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt]
+\item Collaborated to define and document application requirements, ensuring alignment with business goals.
+\item Developed custom tiles and workspaces in Power BI, enhancing data visualization.
+\item Strengthened collaboration between clients and support teams, leading to smoother implementations.
+\end{itemize}
+
+\begin{center}
+\textbf{EXPERIENCE}
+\end{center}
+
+\textbf{Itineris} | Remote
+
+\textbf{Functional Analyst \& Software Analyst} | July 2020 – Sept 2021 \& April 2023 – Present
+\begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt]
+\item Diagnosed and resolved errors, reducing downtime by 20\%.
+\item Configured applications for Dynamics 365 and third-party software, improving efficiency by 25\%.
+\item Designed business processes and data flows, reducing manual errors by 40\%.
+\item Provided proactive monitoring and support, decreasing system downtime by 50\%.
+\end{itemize}
+
+\textbf{Manhattan Associates} | Atlanta, GA
+
+\textbf{Lead Software Consultant} | Sept 2021 – April 2023
+\begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt]
+\item Provided comprehensive training, decreasing onboarding time by 30\%.
+\item Diagnosed and resolved issues, improving system stability by 40\%.
+\item Conducted thorough testing of enhancements, reducing defect rates by 20\%.
+\item Spearheaded implementation of new features, optimizing order fulfillment services globally.
+\end{itemize}
+
+\begin{center}
+\textbf{SKILLS \& CERTIFICATIONS \& INTERESTS}
+\end{center}
+
+\textbf{Technical:} Python, JavaScript, SQL, C\#, .NET, Postman API, Jenkins, X++, XML, HTML, CSS, Microsoft Dynamics 365, Microsoft Power Platform, PowerShell, React, Flask, Azure DevOps, AWS, GCP
+
+\textbf{Certification:} Python (2018), Tableau (2019), Power BI (2020), KPMG Data Analytics (2020), Microsoft Power Platform: PL-900 (2023), Microsoft Dynamics 365: MB-300 (2023), C\# with Microsoft (2023)
+
+\textbf{Language:} English (Fluent), Korean (Fluent)
+
+\textbf{Interests:} Programming, Software, Technology, Sports (Soccer, Basketball, Snowboarding)
+
+\begin{center}
+\textbf{EDUCATION}
+\end{center}
+
+\textbf{University of Georgia} | Athens, GA
+
+BBA, Management Information Systems, 3.7/4.0 | May 2020
+
+\end{document}
